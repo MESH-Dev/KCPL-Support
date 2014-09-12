@@ -1,0 +1,11 @@
+/*
+Theme Name: CMS Guide
+Theme URI: http://meshfresh.com
+Author: MESH Design + Development
+Author URI: http://meshfresh.com
+Description: CMS guide theme based on bootstrap
+Version: 0.1
+*/
+
+@import url(css/wordpress.css);
+@import url(css/cmsguide.css);
